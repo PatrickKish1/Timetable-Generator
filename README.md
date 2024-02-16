@@ -1,2 +1,2 @@
 # Timetable-Generator
-Examination time tale gnerator for university
+Examination time tale generator for university
